@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185583533191",
+    "project_id": "dmvpermitpracticetestinarabic",
+    "storage_bucket": "dmvpermitpracticetestinarabic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185583533191:android:07a6b84b625d43ceaf0c22",
+        "android_client_info": {
+          "package_name": "com.americaalyoum.dmv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185583533191-c3s5ie1onn7699p9jbp4vqkg7n9dtaun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKClsnEpk6ahWY8oWi6IXSpVqlRyQFG-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185583533191-c3s5ie1onn7699p9jbp4vqkg7n9dtaun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
